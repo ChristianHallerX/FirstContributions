@@ -5,9 +5,9 @@
 - [Saphirah Pociluyko](https://github.com/sjpcp5)
 - [Kyle Begovich 🇺🇸](https://kylebegovich.github.io)
 - [Sam Kenpachi](https://samkenpachi011.github.io)
-Jessica B
+- [Jessica B]
 - [Steven Wang](https://github.com/FlyingDutchman1007)
-
+- [John Poulos]
 - [Daniel Kim 🇰🇷](https://twitter.com/journeyer_)
 - [Julia Nguyen]
 - [Shayan Riyaz :pakistan:](https://www.linkedin.com/in/shayan-riyaz/)
